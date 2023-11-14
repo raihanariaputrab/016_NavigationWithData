@@ -61,7 +61,7 @@ fun HalamanUtama (
                         .align(Alignment.CenterHorizontally)
                 )
                 Text(
-                    text = "Gembrunggung",
+                    text = "Nusantara",
                     color = Color.DarkGray,
                     fontFamily = FontFamily.Cursive,
                     fontStyle = FontStyle.Italic,
